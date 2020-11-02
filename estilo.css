@@ -1,0 +1,167 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	font: 1em "Trebuchet MS", Helvetica, sans-serif;
+	background: #e6e6e6;
+}
+
+#area-cabecalho{
+	background: black;
+	text-align: center;
+	padding: 15px;
+}
+
+h1{
+	color: white;
+	font-size: 2.5em;
+}
+
+#area-logo, #area-menu{
+	padding: 10px;
+}
+
+#area-principal{
+	padding: 15px;
+	margin: 0 40px;
+}
+
+#area-postagens{
+	width: 760px;
+	float: left;
+}
+
+.postagens{
+	padding: 20px;
+	margin-bottom: 20px;
+	background: white;
+}
+
+.data-postagem{
+	border-bottom: 1px solid #f4f4f4;
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+	font-size: 0.8em;
+	display: block;
+}
+
+#area-lateral{
+	width: 240;
+	float: right;
+}
+
+.conteudo-lateral{
+	background: white;
+	margin-bottom: 20px;
+	padding: 10px
+	}
+
+.postagens-lateral{
+	font-size: 0.8em;
+	border-bottom: 1px dotted #CCC;
+	padding: 5px;
+}
+
+#rodape{
+	background: #CCC;
+	padding: 15px;
+	text-align: center;
+	clear: both;
+}
+
+h1{
+		font-size: 2.5em;
+}
+
+h2{
+		font-weight: bold;
+		color: #1E90FF;
+}
+
+h3{
+	padding: 5px;
+	background: #CCC;
+	color: #565656;
+}
+
+a{
+	text-decoration: none;
+	color: #1E90FF;
+}
+
+
+a:hover{
+	text-decoration: underline;
+}
+
+a:link, a:visited{
+	color: #1E90FF;
+}
+
+
+#area-cabecalho a:link, #area-cabecalho a:hover{
+	padding: 8px 12px;
+	color: #1E90FF;
+}
+
+#area-cabecalho a:hover{
+	color: black;
+	background: #1E90FF;
+	text-decoration: none;
+}
+
+.conteudo{
+
+	background: white;
+	width: 400px;	
+	padding: 10px;
+	margin-bottom: 25px;
+	margin-top: 10px;
+	margin-left: 10px;
+	float: left;
+}
+
+.titulo{
+	color: #1E90FF;
+	text-align: center;
+	padding: 15px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background: #CCC;
+}
+
+h4{
+	font-size: 1.2em;
+}
+
+#texto{
+	width: 1300px;
+	margin: 0 auto;
+	background: white;	
+	padding: 15px;
+	margin-left: 15px;
+}
+
+li{
+	margin: 5px;
+	margin-left: 25px;
+}
+
+.paragrafo{
+	margin: 5px;
+}
+
+table{
+	width: 500px;
+	text-align: center;
+	}
+
+.cor{
+	background: #DCDCDC;
+}
+
+.tapioca{
+	color: #A9A9A9;
+}
